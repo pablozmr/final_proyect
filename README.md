@@ -15,7 +15,7 @@ Cada dato, cada opinión compartida, nos brinda la oportunidad de marcar la dife
 Realizar un análisis del mercado para las ciudades de California, Las Vegas y Nueva York, con el propósito de desarrollar un sistema de recomendación en el sector hotelero que considere las experiencias y preferencias de los usuarios.
 
 **Específicos:**
-- *Desarrollar un sistema de recomendación:* Utilizar técnicas de análisis avanzado para crear un sistema de recomendación que tome en cuenta las experiencias compartidas por los usuarios en reseñas de hoteles y otras fuentes relevantes.
-- *Realizar análisis exploratorio de datos (EDA):* Mediante técnicas estadísticas y visualizaciones, explorar el DataFrame integrado para identificar patrones, tendencias y características relevantes del mercado hotelero en las tres ciudades.
-- *Crear un Dashboard interactivo:* Que permita mostrar los resultados del análisis realizado, destacando las tendencias en redes sociales, medios de comunicación y campañas de marketing relacionadas con los hoteles en las ciudades seleccionadas.
-- *Ofrecer recomendaciones personalizadas:* Utilizar los resultados del análisis y el sistema de recomendación para brindar a los clientes del sector hotelero sugerencias personalizadas y estratégicas que mejoren la experiencia del usuario y la calidad del servicio.
+- **Desarrollar un sistema de recomendación:** Utilizar técnicas de análisis avanzado para crear un sistema de recomendación que tome en cuenta las experiencias compartidas por los usuarios en reseñas de hoteles y otras fuentes relevantes.
+- **Realizar análisis exploratorio de datos (EDA):** Mediante técnicas estadísticas y visualizaciones, explorar el DataFrame integrado para identificar patrones, tendencias y características relevantes del mercado hotelero en las tres ciudades.
+- **Crear un Dashboard interactivo:** Que permita mostrar los resultados del análisis realizado, destacando las tendencias en redes sociales, medios de comunicación y campañas de marketing relacionadas con los hoteles en las ciudades seleccionadas.
+- **Ofrecer recomendaciones personalizadas:** Utilizar los resultados del análisis y el sistema de recomendación para brindar a los clientes del sector hotelero sugerencias personalizadas y estratégicas que mejoren la experiencia del usuario y la calidad del servicio.
