@@ -25,15 +25,17 @@ Nos encargaremos de analizar los datos geográficos y las preferencias de los us
 
 ### *OBJETIVOS*
 
+
 **General:**
 
-- El objetivo de este proyecto es utilizar técnicas de análisis de datos para desarrollar un sistema de recomendación en el sector hotelero, en tres ciudades especificas New York, Las Vegas y California. A través de un análisis exploratorio ademas  de un Dashbord interactivo que deja como resultado recomendaciones especificas para mejorar la experiencia del usuario.
+- El objetivo de este proyecto es utilizar técnicas de análisis de datos para desarrollar un sistema de recomendación en el sector hotelero, en tres ciudades especificas New York, Las Vegas y California. A través de un análisis exploratorio además  de un Dashboard interactivo que deja como resultado recomendaciones específicas para mejorar la experiencia del usuario.
 
 **Específicos:**
 
-- **Desarrollar un sistema de recomendación:** Aplicando tecnicas de análisis de sentimientos, basados en la experiencia compartida por los usuarios con la finalidad de proporcionar sugerencias personalizadas que mejoren la satisfacción y  fidelización del cliente.
-- **Realizar análisis exploratorio de datos (EDA):** Identificando patrones, tendencias y caracteristicas del mercado Hotelero.
-- **Desarrollar un Dashboard interactivo:** En el  permita a nuestros clientes visualizar los datos de manera dinámica y eficiente, obteniendo una compresión rápida de las persecciones del mercado.
+- Desarrollar un sistema de recomendación: Aplicando técnicas de análisis de sentimientos, basados en la experiencia compartida por los usuarios con la finalidad de proporcionar sugerencias personalizadas que mejoren la satisfacción y  fidelización del cliente.
+- Realizar análisis exploratorio de datos (EDA): Identificando patrones, tendencias y características del mercado Hotelero.
+- Desarrollar un Dashboard interactivo: En el  permita a nuestros clientes visualizar los datos de manera dinámica y eficiente, obteniendo una compresión rápida de las percepciones del mercado.
+
 
 ### *STACK TECNOLÓGICO*
 
