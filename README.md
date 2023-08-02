@@ -2,8 +2,9 @@
 <img src ="https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png">
 <p>
 
+<h1 align='center'>
+ <b>PROYECTO FINAL</b>
 
-# **Proyecto final**
 
 # YELP & GOOGLE MAPS - REVIEWS AND RECOMMENDATIONS
 
