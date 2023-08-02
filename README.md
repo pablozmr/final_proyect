@@ -33,7 +33,7 @@ Nos encargaremos de analizar los datos geográficos y las preferencias de los us
 
 - **Desarrollar un sistema de recomendación:** Aplicando tecnicas de análisis de sentimientos, basados en la experiencia compartida por los usuarios con la finalidad de proporcionar sugerencias personalizadas que mejoren la satisfacción y  fidelización del cliente.
 - **Realizar análisis exploratorio de datos (EDA):** Identificando patrones, tendencias y caracteristicas del mercado Hotelero.
-- **Desarrollar un Dashboard interactivo:** que permita a nuestros clientes visualizar los datos de manera dinamica y eficiente de las persecciones del mercado.
+- **Desarrollar un Dashboard interactivo:** En el  permita a nuestros clientes visualizar los datos de manera dinámica y eficiente, obteniendo una compresión rápida de las persecciones del mercado.
 
 ### *STACK TECNOLÓGICO*
 
