@@ -12,7 +12,7 @@ Cada dato, cada opinión compartida, nos brinda la oportunidad de marcar la dife
 ### *OBJETIVOS*
 
 **General:**
-Realizar un análisis del mercado para las ciudades de California, Las Vegas y Nueva York, con el propósito de desarrollar un sistema de recomendación en el sector hotelero que considere las experiencias y preferencias de los usuarios.
+- **Realizar un análisis del mercado para las ciudades de California, Las Vegas y Nueva York**, con el propósito de desarrollar un sistema de recomendación en el sector hotelero que considere las experiencias y preferencias de los usuarios.
 
 **Específicos:**
 - **Desarrollar un sistema de recomendación:** Utilizar técnicas de análisis avanzado para crear un sistema de recomendación que tome en cuenta las experiencias compartidas por los usuarios en reseñas de hoteles y otras fuentes relevantes.
