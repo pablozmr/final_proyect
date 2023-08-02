@@ -31,9 +31,9 @@ Cada dato, cada opinión compartida, nos brinda la oportunidad de marcar la dife
 - **Looker Studio**: Es una plataforma que permite analizar datos, crear visualizaciones personalizadas, informes y paneles de control para tomar decisiones adecuadas.
 - **Streamlit**: Es un “framework” de Python de código abierto que permite de manera sencilla e integrada desarrollar aplicaciones gracias a la interacción con otras librerías para su empleo.
 - **Notion**: Es una plataforma colaborativa todo en uno que combina notas, documentos, bases de conocimientos, tareas y más.
-- **GITHUB (Local, Nube y Desktop)**, es una forja para alojar proyectos utilizando el sistema de control de versiones Git.
-- **Google Drive**, es un servicio de alojamiento y sincronización de archivos desarrollado por Google, permite almacenar archivos en la nube, sincronizar archivos entre dispositivos y compartir archivos.
-- **Excel**, es una hoja de cálculo desarrollada por Microsoft para Windows.
-- **Word**, es un software de tratamiento de textos.
-- **Discord**, es un servicio de mensajería instantánea y chat de voz VolP. Funciona a través de servidores y está separado en canales de texto o de voz.
-- **Google Meet**, es un servicio de reuniones virtuales desarrollado por Google.
+- **GITHUB (Local, Nube y Desktop)**: Es una forja para alojar proyectos utilizando el sistema de control de versiones Git.
+- **Google Drive**: Es un servicio de alojamiento y sincronización de archivos desarrollado por Google, permite almacenar archivos en la nube, sincronizar archivos entre dispositivos y compartir archivos.
+- **Excel**: Es una hoja de cálculo desarrollada por Microsoft para Windows.
+- **Word**: Es un software de tratamiento de textos.
+- **Discord**: Es un servicio de mensajería instantánea y chat de voz VolP. Funciona a través de servidores y está separado en canales de texto o de voz.
+- **Google Meet**: Es un servicio de reuniones virtuales desarrollado por Google.
