@@ -1,5 +1,8 @@
 # **Proyecto final**
 
+![image](https://github.com/Rominagarcia/finalproject/assets/127762323/c84cddb0-e281-4ac5-9011-26a14c096d9f)
+
+
 ## *Industria hotelera de Estados Unidos*
 
 ### *INTRODUCCIÓN*
