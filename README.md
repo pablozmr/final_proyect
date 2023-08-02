@@ -22,7 +22,7 @@ Nuestro enfoque se centrará en identificar patrones y tendencias en los comenta
 Además, trabajaremos en el desarrollo de un sistema de recomendación de hoteles y negocios afines para los usuarios de Yelp y Google Maps. Este sistema utilizará la información obtenida de las reseñas y experiencias previas de los usuarios para ofrecer recomendaciones personalizadas, brindándoles la oportunidad de explorar experiencias basadas en sus preferencias y experiencias anteriores.
 
 Nos encargaremos de analizar los datos geográficos y las preferencias de los usuarios en distintas ubicaciones. Mediante técnicas de análisis espacial y datos demográficos relevantes, identificaremos las áreas más convenientes para la apertura de nuevos hoteles  y negocios afines, maximizando el potencial de éxito y el alcance de su clientela objetivo por lo anterior buscamos ayudar al cliente a tomar decisiones más informadas, optimizando sus operaciones, brindando experiencias de alta calidad a los usuarios y posicionándolos de manera sólida en el competitivo mercado estadounidense de turismo y ocio. A través de nuestro trabajo, esperamos ser un pilar clave para el éxito y el crecimiento sostenible de nuestro cliente en la industria.
-![image](https://github.com/Rominagarcia/finalproject/assets/127762323/681c2faf-60a6-4d51-9b68-fe3088ec2b04)
+
 
 
 ### *OBJETIVOS*
