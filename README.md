@@ -4,7 +4,6 @@ YELP & GOOGLE MAPS - REVIEWS AND RECOMMENDATIONS
 
 
 
-
 ## *Industria hotelera de Estados Unidos*
 
 ### *INTRODUCCIÓN*
