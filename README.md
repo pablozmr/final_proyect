@@ -75,3 +75,5 @@ Nos encargaremos de analizar los datos geográficos y las preferencias de los us
 Permite abordar proyectos complejos desarrollados en entornos dinámicos y cambiantes de un modo flexible. Está basada en entregas parciales y regulares del producto final en base al valor que ofrecen a los clientes.
 
 Es una opción de gestión ideal para acometer proyectos desarrollados en entornos complejos que exigen rapidez en los resultados y en los que la flexibilidad es un requisito imprescindible. Scrum ofrece agilidad y el resultados de valor.
+
+Diagrama de Gantt >> [Archivo](https://docs.google.com/spreadsheets/d/1IWAVvCBm0p8xOT8Fck5IOvdyrSr6Kpuy/edit?usp=sharing&ouid=113409091000487867625&rtpof=true&sd=true).
