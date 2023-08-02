@@ -5,8 +5,11 @@
 <h1 align='center'>
  <b>PROYECTO FINAL</b>
 
+ REVIEWS AND RECOMMENDATIONS</h1>
+</h1>
 
-# YELP & GOOGLE MAPS - REVIEWS AND RECOMMENDATIONS
+# <h1 align="center">**`YELP & GOOGLE MAPS`**</h1>
+
 
 ### *INTRODUCCIÓN*
 
