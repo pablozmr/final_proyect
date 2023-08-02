@@ -30,10 +30,10 @@ Nos encargaremos de analizar los datos geográficos y las preferencias de los us
 - El objetivo de este proyecto es utilizar técnicas de análisis de datos para desarrollar un sistema de recomendación en el sector hotelero, en tres ciudades especificas New York, Las Vegas y California. A través de un análisis exploratorio ademas  de un Dashbord interactivo que deja como resultado recomendaciones especificas para mejorar la experiencia del usuario.
 
 **Específicos:**
-- **Desarrollar un sistema de recomendación:** Aplicar técnicas avanzadas de análisis de sentimientos y aprendizaje automático para crear un sistema de recomendación eficiente, este sistema se basará en las experiencias compartidas por los usuarios en reseñas de hoteles y otras fuentes relevantes, como Yelp y Google Maps con la finalidad de proporcionar a nuestros clientes del sector hotelero recomendaciones precisas y personalizadas, que mejoren la satisfacción del usuario y fidelizacion del cliente.
-- **Realizar análisis exploratorio de datos (EDA):** Nuestra misión es identificar patrones, tendencias y características cruciales del mercado hotelero en tres ciudades seleccionadas Nueva York,las vegas y California mediante técnicas estadísticas y visualizaciones, explorando el DataFrame integrado para identificar patrones, tendencias y características relevantes del mercado hotelero.
-- **Desarrollar un Dashboard interactivo de fácil navegación que exhibirá los resultados del análisis realizado:** El Dashboard resaltará de manera efectiva las tendencias encontradas en redes sociales, medios de comunicación y campañas de marketing relacionadas con los hoteles en las ciudades seleccionadas. La interactividad del Dashboard permitirá a nuestros clientes explorar y visualizar los datos de manera dinámica, obteniendo una comprensión más profunda y rápida de las percepciones del mercado.
-- **Ofrecer recomendaciones personalizadas:** Utilizar los resultados del análisis y el sistema de recomendación para brindar a los clientes del sector hotelero sugerencias personalizadas y estratégicas que mejoren la experiencia del usuario y la calidad del servicio.
+
+- **Desarrollar un sistema de recomendación:** Aplicando tecnicas de análisis de sentimientos, basados en la experiencia compartida por los usuarios con la finalidad de proporcionar sugerencias personalizadas que mejoren la satisfacción y  fidelización del cliente.
+- **Realizar análisis exploratorio de datos (EDA):** Identificando patrones, tendencias y caracteristicas del mercado Hotelero.
+- **Desarrollar un Dashboard interactivo:** que permita a nuestros clientes visualizar los datos de manera dinamica y eficiente de las persecciones del mercado.
 
 ### *STACK TECNOLÓGICO*
 
