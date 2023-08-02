@@ -29,7 +29,8 @@ Cada dato, cada opinión compartida, nos brinda la oportunidad de marcar la dife
 - *Google Cloud plataform*
 - **Data Prep**: Es una herramienta que facilita la preparación y limpieza de datos antes de su análisis.
 - **Data fusión**: Es una plataforma que simplifica y agiliza el proceso de integración de datos de diversas fuentes. 
-- Lenguajes de programación, Python es un lenguaje de alto nivel de programación interpretado cuya filosofía hace hincapié en la legibilidad de su código.
+
+- **Lenguajes de programación**: Python es un lenguaje de alto nivel de programación interpretado cuya filosofía hace hincapié en la legibilidad de su código.
 
 - **Looker Studio**: Es una plataforma que permite analizar datos, crear visualizaciones personalizadas, informes y paneles de control para tomar decisiones adecuadas.
 
