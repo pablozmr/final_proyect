@@ -49,3 +49,8 @@ Cada dato, cada opinión compartida, nos brinda la oportunidad de marcar la dife
 - **Discord**: Es un servicio de mensajería instantánea y chat de voz VolP. Funciona a través de servidores y está separado en canales de texto o de voz.
 
 - **Google Meet**: Es un servicio de reuniones virtuales desarrollado por Google.
+
+### *METODOLOGÍA DE TRABAJO SCRUM*
+Permite abordar proyectos complejos desarrollados en entornos dinámicos y cambiantes de un modo flexible. Está basada en entregas parciales y regulares del producto final en base al valor que ofrecen a los clientes.
+
+Es una opción de gestión ideal para acometer proyectos desarrollados en entornos complejos que exigen rapidez en los resultados y en los que la flexibilidad es un requisito imprescindible. Scrum ofrece agilidad y el resultados de valor.
