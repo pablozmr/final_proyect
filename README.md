@@ -1,10 +1,6 @@
 # **Proyecto final**
 
-YELP & GOOGLE MAPS - REVIEWS AND RECOMMENDATIONS
-
-
-
-## *Industria hotelera de Estados Unidos*
+# YELP & GOOGLE MAPS - REVIEWS AND RECOMMENDATIONS
 
 ### *INTRODUCCIÓN*
 
@@ -27,12 +23,9 @@ Además, trabajaremos en el desarrollo de un sistema de recomendación de hotele
 
 Nos encargaremos de analizar los datos geográficos y las preferencias de los usuarios en distintas ubicaciones. Mediante técnicas de análisis espacial y datos demográficos relevantes, identificaremos las áreas más convenientes para la apertura de nuevos hoteles  y negocios afines, maximizando el potencial de éxito y el alcance de su clientela objetivo por lo anterior buscamos ayudar al cliente a tomar decisiones más informadas, optimizando sus operaciones, brindando experiencias de alta calidad a los usuarios y posicionándolos de manera sólida en el competitivo mercado estadounidense de turismo y ocio. A través de nuestro trabajo, esperamos ser un pilar clave para el éxito y el crecimiento sostenible de nuestro cliente en la industria.
 
-
-
 ### *OBJETIVOS*
 
 **General:**
-
 - El objetivo de este proyecto es utilizar técnicas avanzadas de análisis de datos y aprendizaje automático para desarrollar un sistema de recomendación personalizado y estratégico para el sector hotelero en tres ciudades específicas. A través de un análisis exploratorio detallado, se identificarán patrones, tendencias y características relevantes del mercado hotelero en estas ciudades. Con la creación de un Dashboard interactivo, se destacarán las tendencias clave en redes sociales, medios de comunicación y campañas de marketing relacionadas con los hoteles. Finalmente, utilizando los resultados obtenidos, se brindarán recomendaciones  precisas y personalizadas para mejorar la experiencia del usuario y la calidad del servicio en los establecimientos hoteleros, con el propósito de potenciar la competitividad y el éxito de nuestros clientes en el sector turístico.
 
 **Específicos:**
