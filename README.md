@@ -101,7 +101,7 @@ Es una opción de gestión ideal para acometer proyectos desarrollados en entorn
 
 `Diagrama Entidad Relación`
 
-<img proyecto final = "Diagrama Entidad Relación.png">
+<img proyecto final = "proyecto final. Diagrama Entidad Relación.png">
 
 
 
