@@ -32,13 +32,13 @@ Además, trabajaremos en el desarrollo de un sistema de recomendación de hotele
 
 Nos encargaremos de analizar los datos geográficos y las preferencias de los usuarios en distintas ubicaciones. Mediante técnicas de análisis espacial y datos demográficos relevantes, identificaremos las áreas más convenientes para la apertura de nuevos hoteles  y negocios afines, maximizando el potencial de éxito y el alcance de su clientela objetivo por lo anterior buscamos ayudar al cliente a tomar decisiones más informadas, optimizando sus operaciones, brindando experiencias de alta calidad a los usuarios y posicionándolos de manera sólida en el competitivo mercado estadounidense de turismo y ocio. A través de nuestro trabajo, esperamos ser un pilar clave para el éxito y el crecimiento sostenible de nuestro cliente en la industria.
 
-•	Data Engineer: Será responsable de la creación del Data Warehouse, la extracción de datos, depuración y preparación de la información para su análisis. También puede encargarse de desarrollar llamadas a APIs y realizar web scraping para obtener datos de Yelp y Google Maps.
+•	*Data Engineer:* Será responsable de la creación del Data Warehouse, la extracción de datos, depuración y preparación de la información para su análisis. También puede encargarse de desarrollar llamadas a APIs y realizar web scraping para obtener datos de Yelp y Google Maps.
 
-•	Machine Learning Engineer: Trabaja en conjunto con el Data Scientist para implementar y poner en producción los modelos de machine learning entrenados, asegurando que funcionen de manera eficiente y escalable.
+•	*Machine Learning Engineer:* Trabaja en conjunto con el Data Scientist para implementar y poner en producción los modelos de machine learning entrenados, asegurando que funcionen de manera eficiente y escalable.
 
-•	Data Analyst: Se enfoca en visualizar los datos y proporcionar informes detallados que ayuden a identificar tendencias, patrones y oportunidades de negocio.
+•	*Data Analyst:* Se enfoca en visualizar los datos y proporcionar informes detallados que ayuden a identificar tendencias, patrones y oportunidades de negocio.
 
-•	Project Manager: Coordinador del equipo, encargado de establecer metas, plazos y asegurar que el proyecto avance según lo planificado. También actúa como punto de contacto con el cliente y toma decisiones estratégicas junto con el equipo.
+•	*Project Manager:* Coordinador del equipo, encargado de establecer metas, plazos y asegurar que el proyecto avance según lo planificado. También actúa como punto de contacto con el cliente y toma decisiones estratégicas junto con el equipo.
 
 ### *OBJETIVOS*
 
@@ -95,3 +95,6 @@ Permite abordar proyectos complejos desarrollados en entornos dinámicos y cambi
 Es una opción de gestión ideal para acometer proyectos desarrollados en entornos complejos que exigen rapidez en los resultados y en los que la flexibilidad es un requisito imprescindible. Scrum ofrece agilidad y el resultados de valor.
 
 [Diagrama de Gantt](https://docs.google.com/spreadsheets/d/1IWAVvCBm0p8xOT8Fck5IOvdyrSr6Kpuy/edit?usp=sharing&ouid=113409091000487867625&rtpof=true&sd=true).
+
+![Diagrama](https://github.com/Rominagarcia/finalproject/assets/96449858/d987dc98-f46e-4ef6-ba8c-13fb6204ec25)
+
