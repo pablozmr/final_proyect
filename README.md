@@ -101,6 +101,7 @@ Es una opción de gestión ideal para acometer proyectos desarrollados en entorn
 
 
 
-[Diagrama entidad Relación](Untitled-2023-08-02-2256.excalidraw).
+<img rese = "Diagrama Entidad Relación.png">
+
 
 
