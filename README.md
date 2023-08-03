@@ -1,6 +1,16 @@
-# **Proyecto final**
+<p align='center'>
+<img src ="https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png">
+<p>
 
-# YELP & GOOGLE MAPS - REVIEWS AND RECOMMENDATIONS
+<h1 align='center'>
+ <b>PROYECTO FINAL</b>
+
+ REVIEWS AND RECOMMENDATIONS</h1>
+</h1>
+
+# <h1 align="center">**`YELP & GOOGLE MAPS`**</h1>
+![Uploading Banner EEUU.png…]()
+
 
 ### *INTRODUCCIÓN*
 
@@ -23,13 +33,13 @@ Además, trabajaremos en el desarrollo de un sistema de recomendación de hotele
 
 Nos encargaremos de analizar los datos geográficos y las preferencias de los usuarios en distintas ubicaciones. Mediante técnicas de análisis espacial y datos demográficos relevantes, identificaremos las áreas más convenientes para la apertura de nuevos hoteles  y negocios afines, maximizando el potencial de éxito y el alcance de su clientela objetivo por lo anterior buscamos ayudar al cliente a tomar decisiones más informadas, optimizando sus operaciones, brindando experiencias de alta calidad a los usuarios y posicionándolos de manera sólida en el competitivo mercado estadounidense de turismo y ocio. A través de nuestro trabajo, esperamos ser un pilar clave para el éxito y el crecimiento sostenible de nuestro cliente en la industria.
 
-•	Data Engineer: Será responsable de la creación del Data Warehouse, la extracción de datos, depuración y preparación de la información para su análisis. También puede encargarse de desarrollar llamadas a APIs y realizar web scraping para obtener datos de Yelp y Google Maps.
+•	*Data Engineer:* Será responsable de la creación del Data Warehouse, la extracción de datos, depuración y preparación de la información para su análisis. También puede encargarse de desarrollar llamadas a APIs y realizar web scraping para obtener datos de Yelp y Google Maps.
 
-•	Machine Learning Engineer: Trabaja en conjunto con el Data Scientist para implementar y poner en producción los modelos de machine learning entrenados, asegurando que funcionen de manera eficiente y escalable.
+•	*Machine Learning Engineer:* Trabaja en conjunto con el Data Scientist para implementar y poner en producción los modelos de machine learning entrenados, asegurando que funcionen de manera eficiente y escalable.
 
-•	Data Analyst: Se enfoca en visualizar los datos y proporcionar informes detallados que ayuden a identificar tendencias, patrones y oportunidades de negocio.
+•	*Data Analyst:* Se enfoca en visualizar los datos y proporcionar informes detallados que ayuden a identificar tendencias, patrones y oportunidades de negocio.
 
-•	Project Manager: Coordinador del equipo, encargado de establecer metas, plazos y asegurar que el proyecto avance según lo planificado. También actúa como punto de contacto con el cliente y toma decisiones estratégicas junto con el equipo.
+•	*Project Manager:* Coordinador del equipo, encargado de establecer metas, plazos y asegurar que el proyecto avance según lo planificado. También actúa como punto de contacto con el cliente y toma decisiones estratégicas junto con el equipo.
 
 ### *OBJETIVOS*
 
@@ -44,6 +54,11 @@ Nos encargaremos de analizar los datos geográficos y las preferencias de los us
 - Realizar análisis exploratorio de datos (EDA): Identificando patrones, tendencias y características del mercado Hotelero.
 - Desarrollar un Dashboard interactivo: En el  permita a nuestros clientes visualizar los datos de manera dinámica y eficiente, obteniendo una compresión rápida de las percepciones del mercado.
 
+**Alcance:**
+
+El alcance de este proyecto es una estrategia de promoción turística dirigida a Nueva York, California y Las Vegas, destacando su atractivo como destinos turísticos de alta preferencia entre los turistas estadounidenses. La segmentación se basa en la popularidad y el interés demostrado por estos lugares, con el propósito de aumentar el flujo de visitantes y fortalecer su posición como destinos turísticos de primer nivel. 
+Nos vamos a centrar puntualmente en la industria hotelera, ya que según nuestro punto de vista, el hospejade dentro de un viaje nos parece un aspecto fundamental a tener en cuenta y priorizar. 
+Fuera del alcance de nuestro proyecto quedarian el resto de los sitios turisticos que se encuentran en los Estados Unidos (en el resto de las ciudades) y de momento otras industrias como la gastronómica y las asociadas al ocio / entretenimiento. 
 
 ### *STACK TECNOLÓGICO*
 
@@ -81,3 +96,6 @@ Permite abordar proyectos complejos desarrollados en entornos dinámicos y cambi
 Es una opción de gestión ideal para acometer proyectos desarrollados en entornos complejos que exigen rapidez en los resultados y en los que la flexibilidad es un requisito imprescindible. Scrum ofrece agilidad y el resultados de valor.
 
 [Diagrama de Gantt](https://docs.google.com/spreadsheets/d/1IWAVvCBm0p8xOT8Fck5IOvdyrSr6Kpuy/edit?usp=sharing&ouid=113409091000487867625&rtpof=true&sd=true).
+
+![Diagrama](https://github.com/Rominagarcia/finalproject/assets/96449858/d987dc98-f46e-4ef6-ba8c-13fb6204ec25)
+
