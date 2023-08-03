@@ -99,3 +99,6 @@ Es una opción de gestión ideal para acometer proyectos desarrollados en entorn
 
 ![Diagrama](https://github.com/Rominagarcia/finalproject/assets/96449858/d987dc98-f46e-4ef6-ba8c-13fb6204ec25)
 
+[Diagrama entidad Relación](https://excalidraw.com/#json=F77PgyzvRXOHsKHdRrBLs,A9WDzS-ed_rWLEWpUndT3Q).
+
+
