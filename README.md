@@ -53,6 +53,11 @@ Nos encargaremos de analizar los datos geográficos y las preferencias de los us
 - Realizar análisis exploratorio de datos (EDA): Identificando patrones, tendencias y características del mercado Hotelero.
 - Desarrollar un Dashboard interactivo: En el  permita a nuestros clientes visualizar los datos de manera dinámica y eficiente, obteniendo una compresión rápida de las percepciones del mercado.
 
+**Alcance:**
+
+El alcance de este proyecto es una estrategia de promoción turística dirigida a Nueva York, California y Las Vegas, destacando su atractivo como destinos turísticos de alta preferencia entre los turistas estadounidenses. La segmentación se basa en la popularidad y el interés demostrado por estos lugares, con el propósito de aumentar el flujo de visitantes y fortalecer su posición como destinos turísticos de primer nivel. 
+Nos vamos a centrar puntualmente en la industria hotelera, ya que según nuestro punto de vista, el hospejade dentro de un viaje nos parece un aspecto fundamental a tener en cuenta y priorizar. 
+Fuera del alcance de nuestro proyecto quedarian el resto de los sitios turisticos que se encuentran en los Estados Unidos (en el resto de las ciudades) y de momento otras industrias como la gastronómica y las asociadas al ocio / entretenimiento. 
 
 ### *STACK TECNOLÓGICO*
 
