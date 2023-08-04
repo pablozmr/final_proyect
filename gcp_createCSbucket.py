@@ -2,7 +2,7 @@ from google.cloud import storage
 import os
 
 # establecer la ruta del archivo de credenciales
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = 'finalproject\ServiceKey_GoogleCloud.json'
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = 'ServiceKey_GoogleCloud.json'
 
 # Definimos la funcion para crear el bucket
 def create_bucket(bucket_name, storage_class='STANDARD', location='southamerica-east1'): 

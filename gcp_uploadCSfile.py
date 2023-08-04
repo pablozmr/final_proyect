@@ -3,7 +3,7 @@ from google.cloud import storage
 import os
 
 # establecer la ruta del archivo de credenciales
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = 'finalproject\ServiceKey_GoogleCloud.json'
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = 'ServiceKey_GoogleCloud.json'
 
 # Definimos la funcion para agregar archivos al bucket
 def upload_cs_file(bucket_name, source_file_name, destination_file_name): 
@@ -24,7 +24,10 @@ def upload_cs_file(bucket_name, source_file_name, destination_file_name):
     return True
 
 
-upload_cs_file('jsj_data_bucket', 'D:/Artemio/Proyectos/Proyecto grupal/finalproject/reseñas/reseñas.csv', 'reseñas/reseña')
-upload_cs_file('jsj_data_bucket', 'D:/Artemio/Proyectos/Proyecto grupal/finalproject/metadata/horarios/horario.csv', 'metadata/horario')
-upload_cs_file('jsj_data_bucket', 'D:/Artemio/Proyectos/Proyecto grupal/finalproject/metadata/metadata.csv', 'metadata/misc')
-upload_cs_file('jsj_data_bucket', 'D:/Artemio/Proyectos/Proyecto grupal/finalproject/metadata/metadata.csv', 'metadata/metadata')
+upload_cs_file('jsj_data_bucket', 'Google/reseñas.csv', 'Google/reseñas')
+upload_cs_file('jsj_data_bucket', 'metadata/horarios/horario.csv', 'Google/horario')
+upload_cs_file('jsj_data_bucket', 'metadata/metadata.csv', 'Google/misc')
+upload_cs_file('jsj_data_bucket', 'metadata/metadata.csv', 'Google/metadata')
+upload_cs_file('jsj_data_bucket', 'Yelp/business_california.csv', 'Yelp/business_california')
+upload_cs_file('jsj_data_bucket', 'Yelp/checkin_california.csv', 'Yelp/checkin_california')
+upload_cs_file('jsj_data_bucket', 'Yelp/reviews_california.csv', 'Yelp/reviews_california')
