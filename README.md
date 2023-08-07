@@ -3,9 +3,9 @@
 <p>
 
 <h1 align='center'>
- <b>PROYECTO FINAL</b>
+ <b>Proyecto final</b>
 
- REVIEWS AND RECOMMENDATIONS</h1>
+ Sinergy Data</h1>
 </h1>
 
 # <h1 align="center">**`YELP & GOOGLE MAPS`**</h1>
