@@ -5,7 +5,7 @@
 <h1 align='center'>
  <b> Synergy Data </b>
 
- Análisis y Recomendaciones para el Sector Hotelero y Usuarios</h1>
+ Análisis y recomendaciones para el sector hotelero y sus usuarios</h1>
 </h1>
 
 # <h1 align="center">**`YELP & GOOGLE MAPS`**</h1>
