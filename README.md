@@ -24,23 +24,24 @@ En este es proyecto, nos adentraremos en el mundo de la industria hotelera de Es
 
 ### **Objetivos**
 
-*General:*
+**General:**
 
 - Utilizar técnicas de análisis de datos para desarrollar un **sistema de recomendación en el sector hotelero de Estados Unidos**, con el fin de realizar recomendaciones personalizadas tanto para los usuarios como para los negocios.
 
-*Específicos:*
+**Específicos:**
 
 - **Desarrollar un sistema de recomendación** aplicando técnicas de análisis de sentimientos, basados en la experiencia compartida por los usuarios con la finalidad de proporcionar sugerencias personalizadas que mejoren la satisfacción y  fidelización del cliente.
 - **Realizar análisis exploratorio de datos** identificando patrones, tendencias y características del mercado hotelero.
 - **Desarrollar un Dashboard interactivo** en el  permita a nuestros clientes visualizar los datos de manera dinámica y eficiente, obteniendo una compresión rápida de las percepciones del mercado.
 
-*Alcance:*
+**Alcance:**
 
-El alcance de este proyecto es una estrategia de promoción turística dirigida a Nueva York, California y Las Vegas, destacando su atractivo como destinos turísticos de alta preferencia entre los turistas estadounidenses. La segmentación se basa en la popularidad y el interés demostrado por estos lugares, con el propósito de aumentar el flujo de visitantes y fortalecer su posición como destinos turísticos de primer nivel. 
-Nos vamos a centrar puntualmente en la industria hotelera, ya que según nuestro punto de vista, el hospejade dentro de un viaje nos parece un aspecto fundamental a tener en cuenta y priorizar. 
-Fuera del alcance de nuestro proyecto quedarian el resto de los sitios turisticos que se encuentran en los Estados Unidos (en el resto de las ciudades) y de momento otras industrias como la gastronómica y las asociadas al ocio / entretenimiento. 
+El alcance de este proyecto abarca una estrategia de promoción turística dirigida a Nueva York, California y Las Vegas, destacando su atractivo como destinos turísticos de alta preferencia entre los turistas estadounidenses. La segmentación se basa en la popularidad y el interés demostrado por estos lugares, con el propósito de aumentar el flujo de visitantes y fortalecer su posición como destinos turísticos de primer nivel. 
+Nos vamos a centrar puntualmente en la industria hotelera, ya que desde nuestro punto de vista, el hospejade dentro de un viaje es un aspecto fundamental a tener en cuenta y priorizar. 
 
-### *Stack tecnológico*
+Fuera del alcance de nuestro proyecto quedarian el resto de los sitios turisticos que se encuentran en los Estados Unidos (en el resto de las ciudades) y de momento otras industrias como la gastronómica y las asociadas al ocio y el entretenimiento. 
+
+### **Stack tecnológico**
 
 - **Windows**: En sus versiones mayores o iguales a 10. Sistema operativo que posibilita la administración de los recursos de una computadora. Desarrollados y vendido por Microsoft.
 
