@@ -3,9 +3,9 @@
 <p>
 
 <h1 align='center'>
- <b>Proyecto final</b>
+ <b> SYNERGY DATA Data</b>
 
- Sinergy Data</h1>
+ ANÁLISIS Y RECOMENDACIONES PARA EL SECTOR HOTELERO Y USUARIOS</h1>
 </h1>
 
 # <h1 align="center">**`YELP & GOOGLE MAPS`**</h1>
