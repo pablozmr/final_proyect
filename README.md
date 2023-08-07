@@ -9,7 +9,7 @@
 </h1>
 
 # <h1 align="center">**`YELP & GOOGLE MAPS`**</h1>
-![Banner EEUU](https://github.com/Rominagarcia/finalproject/assets/96449858/73e66962-bae5-4552-86ef-044eb491dbf9)
+![Banner con nuestro logotipo]
 
 
 ### **Descripción**
