@@ -18,41 +18,21 @@
 
 > Somos **Synergy Data**, una compañía comprometida en conectar dos partes del negocio: hoteles y usuarios, sin preferencia hacia ninguna de ellas. Nuestro enfoque se basa en el análisis profundo y la búsqueda de oportunidades para mejorar la experiencia de los usuarios y el crecimiento de negocios en el sector hotelero.
 
-La opinión de los usuarios ha adquirido gran valor con el correr de los años, impulsada por la creciente cantidad de plataformas de reseñas. La información proporciona valiosas percepciones sobre la experiencia del cliente, lo que puede marcar la diferencia entre el éxito y el fracaso para cualquier negocio. En particular, Yelp y Google Maps han surgido como dos de las plataformas líderes, permitiendo a los usuarios compartir sus opiniones sobre diversos establecimientos, como restaurantes, hoteles y servicios.
-
-En plataformas como Yelp y Google Maps, los usuarios comparten sus vivencias y opiniones, brindándonos una perspectiva única sobre los hoteles y las actividades turísticas más apreciadas. A través del análisis de estos comentarios, aspiramos a medir el desempeño y la calidad del servicio, para impulsar mejoras significativas en la industria.
+La opinión de los usuarios ha adquirido gran valor con el correr de los años, impulsada por la creciente cantidad de plataformas de reseñas. La información proporciona valiosas percepciones sobre la experiencia del cliente, lo que puede marcar la diferencia entre el éxito y el fracaso para cualquier negocio. En particular, Yelp y Google Maps han surgido como dos de las plataformas líderes, permitiendo a los usuarios compartir sus opiniones sobre diversos establecimientos, como restaurantes, hoteles y servicios. A través del análisis de estos comentarios, aspiramos a medir el desempeño y la calidad del servicio, para impulsar mejoras significativas en la industria.
 
 En este es proyecto, nos adentraremos en el mundo de la industria hotelera de Estados Unidos, con especial enfoque dos estados de los estados más visitados por los turistas y una emblemática ciudad: Nueva York, California y Las Vegas.
-
-### **Rol a desarrollar**
-
-Como parte de nuestro equipo en la consultora de data, nuestro objetivo es realizar un análisis  del mercado estadounidense enfocado en las siguientes ciudades Nueva York, California y las Vegas para nuestro cliente, un conglomerado de empresas de hoteles  y negocios afines al turismo y ocio. Nuestra tarea principal será obtener una visión detallada de la opinión de los usuarios en las plataformas Yelp y Google Maps, centrándonos en hoteles y otros negocios relacionados.
-
-Nuestro enfoque se centrará en identificar patrones y tendencias en los comentarios, con el propósito de predecir qué rubros de negocios tienen más probabilidades de experimentar un crecimiento significativo o, por el contrario, un declive.
-
-Además, trabajaremos en el desarrollo de un sistema de recomendación de hoteles y negocios afines para los usuarios de Yelp y Google Maps. Este sistema utilizará la información obtenida de las reseñas y experiencias previas de los usuarios para ofrecer recomendaciones personalizadas, brindándoles la oportunidad de explorar experiencias basadas en sus preferencias y experiencias anteriores.
-
-Nos encargaremos de analizar los datos geográficos y las preferencias de los usuarios en distintas ubicaciones. Mediante técnicas de análisis espacial y datos demográficos relevantes, identificaremos las áreas más convenientes para la apertura de nuevos hoteles  y negocios afines, maximizando el potencial de éxito y el alcance de su clientela objetivo por lo anterior buscamos ayudar al cliente a tomar decisiones más informadas, optimizando sus operaciones, brindando experiencias de alta calidad a los usuarios y posicionándolos de manera sólida en el competitivo mercado estadounidense de turismo y ocio. A través de nuestro trabajo, esperamos ser un pilar clave para el éxito y el crecimiento sostenible de nuestro cliente en la industria.
-
-•	*Data Engineer:* Será responsable de la creación del Data Warehouse, la extracción de datos, depuración y preparación de la información para su análisis. También puede encargarse de desarrollar llamadas a APIs y realizar web scraping para obtener datos de Yelp y Google Maps.
-
-•	*Machine Learning Engineer:* Trabaja en conjunto con el Data Scientist para implementar y poner en producción los modelos de machine learning entrenados, asegurando que funcionen de manera eficiente y escalable.
-
-•	*Data Analyst:* Se enfoca en visualizar los datos y proporcionar informes detallados que ayuden a identificar tendencias, patrones y oportunidades de negocio.
-
-•	*Project Manager:* Coordinador del equipo, encargado de establecer metas, plazos y asegurar que el proyecto avance según lo planificado. También actúa como punto de contacto con el cliente y toma decisiones estratégicas junto con el equipo.
 
 ### **Objetivos**
 
 *General:*
 
-- El objetivo de este proyecto es utilizar técnicas de análisis de datos para desarrollar un sistema de recomendación en el sector hotelero, en tres ciudades especificas New York, Las Vegas y California. A través de un análisis exploratorio además  de un Dashboard interactivo que deja como resultado recomendaciones específicas para mejorar la experiencia del usuario.
+- Utilizar técnicas de análisis de datos para desarrollar un **sistema de recomendación en el sector hotelero de Estados Unidos**, con el fin de realizar recomendaciones personalizadas tanto para los usuarios como para los negocios.
 
 *Específicos:*
 
-- Desarrollar un sistema de recomendación: Aplicando técnicas de análisis de sentimientos, basados en la experiencia compartida por los usuarios con la finalidad de proporcionar sugerencias personalizadas que mejoren la satisfacción y  fidelización del cliente.
-- Realizar análisis exploratorio de datos (EDA): Identificando patrones, tendencias y características del mercado Hotelero.
-- Desarrollar un Dashboard interactivo: En el  permita a nuestros clientes visualizar los datos de manera dinámica y eficiente, obteniendo una compresión rápida de las percepciones del mercado.
+- **Desarrollar un sistema de recomendación** aplicando técnicas de análisis de sentimientos, basados en la experiencia compartida por los usuarios con la finalidad de proporcionar sugerencias personalizadas que mejoren la satisfacción y  fidelización del cliente.
+- **Realizar análisis exploratorio de datos** identificando patrones, tendencias y características del mercado hotelero.
+- **Desarrollar un Dashboard interactivo** en el  permita a nuestros clientes visualizar los datos de manera dinámica y eficiente, obteniendo una compresión rápida de las percepciones del mercado.
 
 *Alcance:*
 
@@ -104,6 +84,4 @@ Es una opción de gestión ideal para acometer proyectos desarrollados en entorn
 
 <img proyecto final = "proyecto final. Diagrama Entidad Relación.png">
 
-
-
-
+### **Integrantes del equipo**
