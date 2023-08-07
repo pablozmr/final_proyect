@@ -78,11 +78,6 @@ Es una opción de gestión ideal para acometer proyectos desarrollados en entorn
 
 [Diagrama de Gantt](https://docs.google.com/spreadsheets/d/1IWAVvCBm0p8xOT8Fck5IOvdyrSr6Kpuy/edit?usp=sharing&ouid=113409091000487867625&rtpof=true&sd=true).
 
-![Diagrama](https://github.com/Rominagarcia/finalproject/assets/96449858/d987dc98-f46e-4ef6-ba8c-13fb6204ec25)
-
 ## *Diagrama Entidad Relación*
-(![Diagrama de entidad-relación](https://github.com/Rominagarcia/finalproject/assets/96449858/c6ab58ee-cc8b-4bf0-8770-ee277aebfa27)
-
-<img proyecto final = "![Diagrama](https://github.com/Rominagarcia/finalproject/assets/96449858/a7d0244e-0b81-447f-ae85-901cb71232ca)">
 
 ### **Integrantes del equipo**
