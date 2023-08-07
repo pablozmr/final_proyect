@@ -12,16 +12,17 @@
 ![Banner EEUU](https://github.com/Rominagarcia/finalproject/assets/96449858/73e66962-bae5-4552-86ef-044eb491dbf9)
 
 
-### **Introducción**
+### **Descripción**
 
-> La opinión de los usuarios ha adquirido gran valor con el correr de los años, impulsada por la creciente cantidad de plataformas de reseñas. La información proporciona valiosas percepciones sobre la experiencia del cliente, lo que puede marcar la diferencia entre el éxito y el fracaso para cualquier negocio. En particular, Yelp y Google Maps han surgido como dos de las plataformas líderes, permitiendo a los usuarios compartir sus opiniones sobre diversos establecimientos, como restaurantes, hoteles y servicios, entre otros.
+¡Bienvenidos a nuestro proyecto!
 
-En plataformas como Yelp y Google Maps, los usuarios comparten sus vivencias y opiniones, brindándonos una perspectiva auténtica sobre los hoteles y las actividades turísticas más apreciadas. A través del análisis de estos comentarios, aspiramos a medir el desempeño y la calidad del servicio, para impulsar mejoras significativas en la industria.
+> Somos **Synergy Data**, una compañía comprometida en conectar dos partes del negocio: hoteles y usuarios, sin preferencia hacia ninguna de ellas. Nuestro enfoque se basa en el análisis profundo y la búsqueda de oportunidades para mejorar la experiencia de los usuarios y el crecimiento de negocios en el sector hotelero.
 
-En este es proyecto, nos adentraremos en el mundo de la industria hotelera de Estados Unidos, con especial enfoque dos estados icónicos y una ciudad emblemática: Nueva York, California y Las Vegas. Nuestra misión es analizar las reseñas de hoteles escritas por los turistas, para descubrir oportunidades de mejora basadas en sus experiencias con el objetivo es analizar los datos de los usuarios y sus reseñas, buscamos brindar un recurso para la planificación de estrategias empresariales inteligentes.
+La opinión de los usuarios ha adquirido gran valor con el correr de los años, impulsada por la creciente cantidad de plataformas de reseñas. La información proporciona valiosas percepciones sobre la experiencia del cliente, lo que puede marcar la diferencia entre el éxito y el fracaso para cualquier negocio. En particular, Yelp y Google Maps han surgido como dos de las plataformas líderes, permitiendo a los usuarios compartir sus opiniones sobre diversos establecimientos, como restaurantes, hoteles y servicios.
 
-Para las empresas, estas reseñas se traducen en un conocimiento fundamental sobre cómo son percibidos por su cliente, permitiendo identificar fortalezas y debilidades en sus servicios más allá de los hoteles, también exploraremos las preferencias de los turistas, creando un "Top 3" de las actividades más destacadas en el estadocon las mejores reseñas. Así, nuestro análisis será integral para la industria en la que nos enfocamos.
-Cada dato, cada opinión compartida, nos brinda la oportunidad de marcar la diferencia y hacer que cada día, la industria hotelera ofrezca un servicio aún más memorable para todos los viajeros que deseen explorar Estados Unidos.
+En plataformas como Yelp y Google Maps, los usuarios comparten sus vivencias y opiniones, brindándonos una perspectiva única sobre los hoteles y las actividades turísticas más apreciadas. A través del análisis de estos comentarios, aspiramos a medir el desempeño y la calidad del servicio, para impulsar mejoras significativas en la industria.
+
+En este es proyecto, nos adentraremos en el mundo de la industria hotelera de Estados Unidos, con especial enfoque dos estados de los estados más visitados por los turistas y una emblemática ciudad: Nueva York, California y Las Vegas.
 
 ### **Rol a desarrollar**
 
