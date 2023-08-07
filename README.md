@@ -3,16 +3,16 @@
 <p>
 
 <h1 align='center'>
- <b> SYNERGY DATA Data</b>
+ <b> Synergy Data </b>
 
- ANÁLISIS Y RECOMENDACIONES PARA EL SECTOR HOTELERO Y USUARIOS</h1>
+ Análisis y Recomendaciones para el Sector Hotelero y Usuarios</h1>
 </h1>
 
 # <h1 align="center">**`YELP & GOOGLE MAPS`**</h1>
 ![Banner EEUU](https://github.com/Rominagarcia/finalproject/assets/96449858/73e66962-bae5-4552-86ef-044eb491dbf9)
 
 
-### *INTRODUCCIÓN*
+### **Introducción**
 
 > La opinión de los usuarios ha adquirido gran valor con el correr de los años, impulsada por la creciente cantidad de plataformas de reseñas. La información proporciona valiosas percepciones sobre la experiencia del cliente, lo que puede marcar la diferencia entre el éxito y el fracaso para cualquier negocio. En particular, Yelp y Google Maps han surgido como dos de las plataformas líderes, permitiendo a los usuarios compartir sus opiniones sobre diversos establecimientos, como restaurantes, hoteles y servicios, entre otros.
 
@@ -23,7 +23,7 @@ En este es proyecto, nos adentraremos en el mundo de la industria hotelera de Es
 Para las empresas, estas reseñas se traducen en un conocimiento fundamental sobre cómo son percibidos por su cliente, permitiendo identificar fortalezas y debilidades en sus servicios más allá de los hoteles, también exploraremos las preferencias de los turistas, creando un "Top 3" de las actividades más destacadas en el estadocon las mejores reseñas. Así, nuestro análisis será integral para la industria en la que nos enfocamos.
 Cada dato, cada opinión compartida, nos brinda la oportunidad de marcar la diferencia y hacer que cada día, la industria hotelera ofrezca un servicio aún más memorable para todos los viajeros que deseen explorar Estados Unidos.
 
-### *ROL A DESARROLLAR*
+### **Rol a desarrollar**
 
 Como parte de nuestro equipo en la consultora de data, nuestro objetivo es realizar un análisis  del mercado estadounidense enfocado en las siguientes ciudades Nueva York, California y las Vegas para nuestro cliente, un conglomerado de empresas de hoteles  y negocios afines al turismo y ocio. Nuestra tarea principal será obtener una visión detallada de la opinión de los usuarios en las plataformas Yelp y Google Maps, centrándonos en hoteles y otros negocios relacionados.
 
@@ -41,27 +41,27 @@ Nos encargaremos de analizar los datos geográficos y las preferencias de los us
 
 •	*Project Manager:* Coordinador del equipo, encargado de establecer metas, plazos y asegurar que el proyecto avance según lo planificado. También actúa como punto de contacto con el cliente y toma decisiones estratégicas junto con el equipo.
 
-### *OBJETIVOS*
+### **Objetivos**
 
-**General:**
+*General:*
 
 - El objetivo de este proyecto es utilizar técnicas de análisis de datos para desarrollar un sistema de recomendación en el sector hotelero, en tres ciudades especificas New York, Las Vegas y California. A través de un análisis exploratorio además  de un Dashboard interactivo que deja como resultado recomendaciones específicas para mejorar la experiencia del usuario.
 
-**Específicos:**
+*Específicos:*
 
 - Desarrollar un sistema de recomendación: Aplicando técnicas de análisis de sentimientos, basados en la experiencia compartida por los usuarios con la finalidad de proporcionar sugerencias personalizadas que mejoren la satisfacción y  fidelización del cliente.
 - Realizar análisis exploratorio de datos (EDA): Identificando patrones, tendencias y características del mercado Hotelero.
 - Desarrollar un Dashboard interactivo: En el  permita a nuestros clientes visualizar los datos de manera dinámica y eficiente, obteniendo una compresión rápida de las percepciones del mercado.
 
-**Alcance:**
+*Alcance:*
 
 El alcance de este proyecto es una estrategia de promoción turística dirigida a Nueva York, California y Las Vegas, destacando su atractivo como destinos turísticos de alta preferencia entre los turistas estadounidenses. La segmentación se basa en la popularidad y el interés demostrado por estos lugares, con el propósito de aumentar el flujo de visitantes y fortalecer su posición como destinos turísticos de primer nivel. 
 Nos vamos a centrar puntualmente en la industria hotelera, ya que según nuestro punto de vista, el hospejade dentro de un viaje nos parece un aspecto fundamental a tener en cuenta y priorizar. 
 Fuera del alcance de nuestro proyecto quedarian el resto de los sitios turisticos que se encuentran en los Estados Unidos (en el resto de las ciudades) y de momento otras industrias como la gastronómica y las asociadas al ocio / entretenimiento. 
 
-### *STACK TECNOLÓGICO*
+### *Stack tecnológico*
 
-- **WINDOWS**: En sus versiones mayores o iguales a 10. Sistema operativo que posibilita la administración de los recursos de una computadora. Desarrollados y vendido por Microsoft.
+- **Windows**: En sus versiones mayores o iguales a 10. Sistema operativo que posibilita la administración de los recursos de una computadora. Desarrollados y vendido por Microsoft.
 
 - **Visual Studio Code**: Es un editor de código fuente desarrollado por Microsoft para Windows, Linux, macOS y Web. Incluye soporte para la depuración, control integrado de Git, resaltado de sintaxis, finalización inteligente de código, fragmentos y refactorización de código.
 
@@ -77,7 +77,7 @@ Fuera del alcance de nuestro proyecto quedarian el resto de los sitios turistico
 
 - **Notion**: Es una plataforma colaborativa todo en uno que combina notas, documentos, bases de conocimientos, tareas y más.
 
-- **GITHUB (Local, Nube y Desktop)**: Es una forja para alojar proyectos utilizando el sistema de control de versiones Git.
+- **Github (Local, Nube y Desktop)**: Es una forja para alojar proyectos utilizando el sistema de control de versiones Git.
 
 - **Google Drive**: Es un servicio de alojamiento y sincronización de archivos desarrollado por Google, permite almacenar archivos en la nube, sincronizar archivos entre dispositivos y compartir archivos.
 
@@ -89,7 +89,7 @@ Fuera del alcance de nuestro proyecto quedarian el resto de los sitios turistico
 
 - **Google Meet**: Es un servicio de reuniones virtuales desarrollado por Google.
 
-### *METODOLOGÍA DE TRABAJO SCRUM*
+### **Metodología de trabajo Scrum**
 Permite abordar proyectos complejos desarrollados en entornos dinámicos y cambiantes de un modo flexible. Está basada en entregas parciales y regulares del producto final en base al valor que ofrecen a los clientes.
 
 Es una opción de gestión ideal para acometer proyectos desarrollados en entornos complejos que exigen rapidez en los resultados y en los que la flexibilidad es un requisito imprescindible. Scrum ofrece agilidad y el resultados de valor.
