@@ -83,6 +83,6 @@ Es una opción de gestión ideal para acometer proyectos desarrollados en entorn
 ## *Diagrama Entidad Relación*
 (![Diagrama de entidad-relación](https://github.com/Rominagarcia/finalproject/assets/96449858/c6ab58ee-cc8b-4bf0-8770-ee277aebfa27)
 
-<img proyecto final = "proyecto final. Diagrama Entidad Relación.png">
+<img proyecto final = "![Diagrama](https://github.com/Rominagarcia/finalproject/assets/96449858/a7d0244e-0b81-447f-ae85-901cb71232ca)">
 
 ### **Integrantes del equipo**
