@@ -169,13 +169,15 @@ Registros en el negocio.
 ### tip.json
 Tips (consejos) escritos por el usuario. Los tips son más cortos que las reseñas y tienden a dar sugerencias rápidas.
 
-- string, texto del tip
-- "text": "Secret menu - fried chicken sando is da bombbbbbb Their zapatos are good too."
-- string, fecha cuando se escribió el tip YYYY-MM-DD
-- "date": "2013-09-20"
-- entero, cuantos cumplidos totales tiene
-- "compliment_count": 172
-- string, 22 caracteres, id del negocio que se refiere al negocio en business.json
-- "business_id": "tnhfDv5Il8EaGSXZGiuQGg"
 - string, 22 caracteres de id de usuario, que se refieren al usuario en user.json
 - "user_id": "49JhAJh8vSQ-vM4Aourl0g"
+- - string, 22 caracteres, id del negocio que se refiere al negocio en business.json
+- "business_id": "tnhfDv5Il8EaGSXZGiuQGg"
+- string, texto del tip
+- "text": "Secret menu - fried chicken sando is da bombbbbbb Their zapatos are good too."
+- date, fecha cuando se escribió el tip YYYY-MM-DD HH: mm :SS
+- "date": "2017-06-28 15: 40 :13"
+- entero, cuantos cumplidos totales tiene
+- "compliment_count": 172
+
+
