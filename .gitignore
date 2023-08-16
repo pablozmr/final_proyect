@@ -1,0 +1,7 @@
+# ignore csv files
+CSV/*
+documento final.docx
+*.docx
+
+#ios files
+*.DS_Store
