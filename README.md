@@ -13,7 +13,7 @@
 # <h1 align="center">**`YELP & GOOGLE MAPS`**</h1>
 
 ![Banner con nuestro logotipo]
-  <img crs ="BANNER1PAGINA.jpg">
+  <img src ="https://drive.google.com/file/d/1ojO_PF5-eqPEBxudulm2kUhuisZ_AQr3/view?usp=drive_link">
  
 ### **Descripción**
 
