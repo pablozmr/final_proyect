@@ -13,8 +13,8 @@
 # <h1 align="center">**`YELP & GOOGLE MAPS`**</h1>
 
 ![Banner con nuestro logotipo]
-  <img yelp = "'final_proyect/LOGOSINERGYDATAPAGWEB.png">
-
+  <img crs = 'LOGOSINERGYDATAPAGWEB.png'>
+ 
 ### **Descripción**
 
 ¡Bienvenidos a nuestro proyecto!
