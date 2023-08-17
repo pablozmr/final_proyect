@@ -1,8 +1,8 @@
 <p align='center'>
 <img src ="https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png">
 
-  <img src = 'final_proyect/LOGOSINERGYDATAPAGWEB.png' height = 500>
-  LOGOSINERGYDATAPAGWEB.png
+  <img src = "'final_proyect/LOGOSINERGYDATAPAGWEB.png">
+
 <p>
 
 <h1 align='center'>
