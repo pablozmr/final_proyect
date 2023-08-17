@@ -1,7 +1,6 @@
 <p align='center'>
 <img src ="https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png">
 
-  <img src = "'final_proyect/LOGOSINERGYDATAPAGWEB.png">
 
 <p>
 
@@ -12,8 +11,9 @@
 </h1>
 
 # <h1 align="center">**`YELP & GOOGLE MAPS`**</h1>
-![Banner con nuestro logotipo]
 
+![Banner con nuestro logotipo]
+  <img yelp = "'final_proyect/LOGOSINERGYDATAPAGWEB.png">
 
 ### **Descripción**
 
