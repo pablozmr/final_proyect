@@ -12,8 +12,8 @@
 
 # <h1 align="center">**`YELP & GOOGLE MAPS`**</h1>
 
-![Banner con nuestro logotipo]  NO SUBE-----
-  <img src ="[https://drive.google.com/file/d/1ojO_PF5-eqPEBxudulm2kUhuisZ_AQr3/view?usp=drive_link](https://drive.google.com/file/d/1OSaRUz-rCahbsyMSNgDFT-kL0DikL18x/view)">
+<img src="src\BANNER1PAGINA.jpg" alt="Texto alternativo">
+
  
 ### **Descripción**
 
