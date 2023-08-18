@@ -83,4 +83,9 @@ Es una opción de gestión ideal para acometer proyectos desarrollados en entorn
 
 ## *Diagrama Entidad Relación*
 
+<img src="src\entidad_relacion.jpeg" alt="Texto alternativo">
+
 ### **Integrantes del equipo**
+
+<img src="src\asdafassfas.jpeg" alt="Texto alternativo" width="400" height="400"> <img src="src\asdasdasd.jpeg" alt="Texto alternativo" width="400" height="400"> <img src="src\asdsad.jpeg" alt="Texto alternativo" width="400" height="400"> <img src="src\asfffgf.jpeg" alt="Texto alternativo" width="400" height="400">
+
