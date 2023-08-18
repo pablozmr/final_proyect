@@ -91,5 +91,9 @@ Es una opción de gestión ideal para acometer proyectos desarrollados en entorn
 
 <img src="src\asdafassfas.jpeg" alt="Texto alternativo" width="400" height="400"> <img src="src\asdasdasd.jpeg" alt="Texto alternativo" width="400" height="400"> <img src="src\asdsad.jpeg" alt="Texto alternativo" width="400" height="400"> <img src="src\asfffgf.jpeg" alt="Texto alternativo" width="400" height="400">
 
+### **Site del proyecto**
+
+https://sites.google.com/view/synergydata/inicio
+
 
 
